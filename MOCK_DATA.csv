@@ -1,0 +1,999 @@
+trade_date,book,security,quantity,price
+7/11/21,Aquamarine,Eaton Vance Floating Rate Income Trust,16165,81.16
+7/11/21,Aquamarine,Bryn Mawr Bank Corporation,18072,48.49
+7/11/21,Aquamarine,"SB Financial Group, Inc.",10233,36.45
+7/11/21,Aquamarine,Advanced Accelerator Applications S.A.,15003,71.77
+7/11/21,Aquamarine,Vanguard Emerging Markets Government Bond ETF,13652,20.43
+7/11/21,Aquamarine,"SilverBow Resorces, Inc.",18363,4.96
+7/11/21,Aquamarine,"EPAM Systems, Inc.",12487,98.19
+7/11/21,Aquamarine,Tantech Holdings Ltd.,17837,42.98
+7/11/21,Aquamarine,"Golden Entertainment, Inc.",18954,63.75
+7/11/21,Aquamarine,First Trust NASDAQ Smartphone Index Fund,14071,17.6
+7/11/21,Aquamarine,Cabela's Inc,14911,90.71
+7/11/21,Aquamarine,Elkhorn Commodity Rotation Strategy ETF,17175,31.01
+7/11/21,Aquamarine,"Bob Evans Farms, Inc.",19094,43.63
+7/11/21,Aquamarine,"Dillard's, Inc.",17481,61.75
+7/11/21,Aquamarine,"Holly Energy Partners, L.P.",16152,67.73
+7/11/21,Aquamarine,Digi International Inc.,17749,87.91
+7/13/21,Blue,"Acacia Communications, Inc.",13046,90.3
+7/13/21,Blue,"Akebia Therapeutics, Inc.",18588,88.87
+7/12/21,Blue,"Archrock, Inc.",15955,5.47
+7/12/21,Blue,"Arena Pharmaceuticals, Inc.",11260,33.19
+7/12/21,Blue,"Armstrong Flooring, Inc.",14012,48.03
+7/11/21,Blue,Avenue Income Credit Strategies Fund,17275,23.65
+7/12/21,Blue,"Baldwin & Lyons, Inc.",11905,34.98
+7/12/21,Blue,Banco Bradesco Sa,11145,36.67
+7/13/21,Blue,"Blackrock MuniHoldings New Jersey Insured Fund, Inc.",17282,80.42
+7/12/21,Blue,Brandywine Realty Trust,16117,87.81
+7/11/21,Blue,BRF S.A.,15369,16.22
+7/13/21,Blue,"CenterState Banks, Inc.",10033,30.1
+7/11/21,Blue,"Chanticleer Holdings, Inc.",18992,88.64
+7/11/21,Blue,"Chimerix, Inc.",17790,16.55
+7/12/21,Blue,China XD Plastics Company Limited,15691,33.07
+7/11/21,Blue,"Codexis, Inc.",16235,68.13
+7/11/21,Blue,"Cohen & Steers Total Return Realty Fund, Inc.",14715,19.91
+7/12/21,Blue,DragonWave Inc,16481,19.9
+7/11/21,Crimson,"Century Bancorp, Inc.",12157,75.1
+7/11/21,Crimson,Southwestern Energy Company,18654,14.4
+7/11/21,Crimson,"Copart, Inc.",12822,91.72
+7/11/21,Crimson,Kingtone Wirelessinfo Solution Holding Ltd,12097,60.06
+7/11/21,Crimson,"Shineco, Inc.",12102,63.3
+7/11/21,Crimson,CNX Coal Resources LP,13101,90.89
+7/11/21,Crimson,Ameris Bancorp,11481,17.69
+7/11/21,Crimson,Kinross Gold Corporation,11406,96.2
+7/11/21,Crimson,MER Telemanagement Solutions Ltd.,11822,44.24
+7/11/21,Crimson,Yirendai Ltd.,15855,58.47
+7/11/21,Crimson,"Winnebago Industries, Inc.",12667,64.46
+7/11/21,Crimson,"Arena Pharmaceuticals, Inc.",13126,77.26
+7/11/21,Crimson,"Forterra, Inc.",19090,94.29
+7/11/21,Crimson,GP Strategies Corporation,17362,82.83
+7/11/21,Crimson,Diana Shipping inc.,14091,30.13
+7/11/21,Crimson,"Juniper Networks, Inc.",19453,52.13
+7/11/21,Crimson,"Lilis Energy, Inc.",19864,25.72
+7/11/21,Crimson,Sierra Bancorp,12936,4.84
+7/11/21,Crimson,Enterprise Financial Services Corporation,15441,91.45
+7/11/21,Crimson,"USLIFE Income Fund, Inc.",11940,59.64
+7/11/21,Crimson,McKesson Corporation,16819,45.81
+7/11/21,Fuscia,Guggenheim Strategic Opportunities Fund,17943,89.31
+7/11/21,Fuscia,Southern California Edison Company,10858,62.42
+7/11/21,Fuscia,Goldcorp Inc.,13692,5.47
+7/11/21,Fuscia,Red Lion Hotels Corporation,17730,55.23
+7/11/21,Fuscia,Citigroup Inc.,15952,14.7
+7/11/21,Fuscia,"Tahoe Resources, Inc.",11728,7.34
+7/11/21,Fuscia,Agenus Inc.,16759,81.99
+7/11/21,Fuscia,Data I/O Corporation,18361,28.01
+7/11/21,Fuscia,"Equinix, Inc.",12230,28.21
+7/11/21,Fuscia,"Ocean Power Technologies, Inc.",19612,60.82
+7/11/21,Fuscia,"Duff & Phelps Utilities Tax-Free Income, Inc.",16144,86.11
+7/11/21,Fuscia,"First Community Financial Partners, Inc.",12124,33.42
+7/11/21,Fuscia,Icahn Enterprises L.P.,19804,90.13
+7/11/21,Fuscia,Principal U.S. Small Cap Index ETF,18196,38.75
+7/11/21,Fuscia,Ultrapar Participacoes S.A.,14355,95.35
+7/11/21,Fuscia,Vornado Realty Trust,16218,55.14
+7/11/21,Goldenrod,Bank of America Corporation,18864,33.09
+7/11/21,Goldenrod,Invesco California Value Municipal Income Trust,15889,96.54
+7/11/21,Goldenrod,Washington Prime Group Inc.,16166,95.79
+7/11/21,Goldenrod,"Paycom Software, Inc.",17896,15.75
+7/11/21,Goldenrod,Kimco Realty Corporation,18457,24.52
+7/11/21,Goldenrod,"AquaBounty Technologies, Inc.",15986,30.04
+7/11/21,Goldenrod,Valley National Bancorp,16482,90.86
+7/11/21,Goldenrod,Lear Corporation,13698,20.32
+7/11/21,Goldenrod,"USLIFE Income Fund, Inc.",16113,31.25
+7/11/21,Goldenrod,"Imperva, Inc.",10039,4.39
+7/11/21,Goldenrod,"Synchronoss Technologies, Inc.",12972,95.23
+7/11/21,Goldenrod,"Pinnacle Foods, Inc.",18283,73.98
+7/11/21,Goldenrod,GasLog LP.,19625,44.28
+7/11/21,Goldenrod,Loncar Cancer Immunotherapy ETF,17830,71.36
+7/11/21,Goldenrod,"HSN, Inc.",18515,14.24
+7/11/21,Green,"Rand Logistics, Inc.",11019,88.03
+7/11/21,Green,Columbus McKinnon Corporation,13876,42.4
+7/11/21,Green,Origo Acquisition Corporation,16197,54.58
+7/11/21,Green,"ShoreTel, Inc.",12371,77
+7/11/21,Green,"GRAVITY Co., Ltd.",19253,13.55
+7/11/21,Green,"Safe Bulkers, Inc",17746,14.7
+7/11/21,Green,Great Elm Capital Corp.,19538,11.83
+7/11/21,Green,Nuven Mortgage Opportunity Term Fund 2,11037,88.09
+7/11/21,Green,Oracle Corporation,17301,10.34
+7/11/21,Green,Cheetah Mobile Inc.,13125,70.36
+7/11/21,Green,"Pacific Biosciences of California, Inc.",11731,64.31
+7/11/21,Green,"Goldman Sachs Group, Inc. (The)",18114,26.58
+7/11/21,Indigo,"FRP Holdings, Inc.",19021,10.73
+7/11/21,Indigo,"Nexstar Media Group, Inc.",18317,42.75
+7/11/21,Indigo,OFG Bancorp,15894,63.63
+7/11/21,Indigo,TravelCenters of America LLC,13346,45.63
+7/11/21,Indigo,Amdocs Limited,14694,58.87
+7/11/21,Indigo,Embraer-Empresa Brasileira de Aeronautica,11712,10.41
+7/11/21,Indigo,Wendy's Company (The),18863,25.41
+7/11/21,Indigo,Teradata Corporation,17524,38.33
+7/11/21,Indigo,"TerraForm Global, Inc.",17270,61.88
+7/11/21,Indigo,Nortel Inversora SA,12993,68.73
+7/11/21,Indigo,STMicroelectronics N.V.,10330,39.1
+7/11/21,Indigo,Quorum Health Corporation,10568,59.55
+7/11/21,Indigo,Gabelli NextShares Trust,15144,84.81
+7/11/21,Indigo,First Trust NASDAQ-100- Technology Index Fund,18135,37.62
+7/11/21,Indigo,"Nelnet, Inc.",15127,13.91
+7/11/21,Indigo,Verizon Communications Inc.,11067,7.12
+7/11/21,Indigo,Fifth Street Senior Floating Rate Corp.,13526,7.53
+7/11/21,Indigo,"Blackrock MuniHoldings Quality Fund II, Inc.",15120,33.47
+7/11/21,Indigo,"Virtus Investment Partners, Inc.",16578,62.73
+7/11/21,Indigo,"Safeguard Scientifics, Inc.",17010,81.1
+7/11/21,Khaki,"Great Southern Bancorp, Inc.",18220,53.05
+7/11/21,Khaki,BLDRS Emerging Markets 50 ADR Index Fund,11315,75.71
+7/11/21,Khaki,"Blackrock MuniYield New York Quality Fund, Inc.",12483,93.1
+7/11/21,Khaki,LiNiu Technology Group,11971,10.41
+7/11/21,Khaki,PJT Partners Inc.,16079,1.64
+7/11/21,Khaki,Hudbay Minerals Inc.,10526,2.42
+7/11/21,Khaki,SPDR Dorsey Wright Fixed Income Allocation ETF,13414,95.62
+7/11/21,Khaki,Kimberly-Clark Corporation,13001,77.96
+7/11/21,Khaki,"Live Oak Bancshares, Inc.",13446,88.66
+7/11/21,Khaki,PowerShares DWA Developed Markets Momentum Portfolio,18557,68.34
+7/11/21,Khaki,Nuveen High Income December 2019 Target Term Fund,14331,66.22
+7/11/21,Khaki,"FormFactor, Inc.",19482,71.09
+7/11/21,Khaki,Alliance Data Systems Corporation,14480,28.06
+7/11/21,Khaki,"Pain Therapeutics, Inc.",15649,56.45
+7/11/21,Khaki,"Harvard Bioscience, Inc.",16743,39.91
+7/11/21,Khaki,"Boston Private Financial Holdings, Inc.",13362,46.99
+7/11/21,Maroon,Lattice Semiconductor Corporation,15509,86.69
+7/11/21,Maroon,Boulevard Acquisition Corp. II,10655,73.62
+7/11/21,Maroon,"SandRidge Energy, Inc.",19857,10.72
+7/11/21,Maroon,First Trust Multi Cap Value AlphaDEX Fund,19156,81.38
+7/11/21,Maroon,Matrix Service Company,19135,8.11
+7/11/21,Maroon,Peabody Energy Corporation,17774,61.12
+7/11/21,Maroon,"Natural Gas Services Group, Inc.",10693,56.79
+7/11/21,Maroon,"Synergy Pharmaceuticals, Inc.",10714,19.16
+7/11/21,Maroon,"Cross Country Healthcare, Inc.",15125,46.86
+7/11/21,Maroon,"Star Gas Partners, L.P.",11983,25.14
+7/11/21,Maroon,"Limbach Holdings, Inc.",10305,38.91
+7/11/21,Maroon,Putnam High Income Bond Fund,17899,18.49
+7/11/21,Maroon,United States Cellular Corporation,13610,10.34
+7/11/21,Maroon,BlackRock Energy and Resources Trust,19361,68.28
+7/11/21,Maroon,Westport Fuel Systems Inc,19288,52.28
+7/11/21,Maroon,PowerShares KBW Premium Yield Equity REIT Portfolio,12595,26.24
+7/11/21,Maroon,"Church & Dwight Company, Inc.",10457,57.23
+7/11/21,Maroon,"T2 Biosystems, Inc.",16296,39.49
+7/11/21,Maroon,Boston Scientific Corporation,19068,49.13
+7/11/21,Maroon,"Celldex Therapeutics, Inc.",13542,50.94
+7/11/21,Maroon,Vanguard International Dividend Appreciation ETF,19996,96.58
+7/11/21,Maroon,Northern Technologies International Corporation,16347,21.73
+7/11/21,Maroon,Nustar Energy L.P.,17711,11.38
+7/11/21,Maroon,Two River Bancorp,11680,68.18
+7/11/21,Maroon,Teekay LNG Partners L.P.,10722,43.26
+7/11/21,Maroon,"Loral Space and Communications, Inc.",19680,86.04
+7/11/21,Maroon,Cambrex Corporation,10857,48.52
+7/11/21,Maroon,Global X Robotics & Artificial Intelligence ETF,11268,17.06
+7/11/21,Mauv,Annaly Capital Management Inc,18606,9.62
+7/11/21,Mauv,"ONEOK Partners, L.P.",19902,50.99
+7/11/21,Mauv,RGC Resources Inc.,14362,82.91
+7/11/21,Mauv,"Revlon, Inc.",10246,30.67
+7/11/21,Mauv,PowerShares S&P SmallCap Materials Portfolio,18752,23.13
+7/11/21,Mauv,Immuron Limited,18950,16.19
+7/11/21,Mauv,Frontier Communications Corporation,17883,74.38
+7/11/21,Mauv,CBS Corporation,10837,6.23
+7/11/21,Mauv,Nuveen New York Municipal Value Fund 2,18408,6.86
+7/11/21,Mauv,First Data Corporation,17658,91.8
+7/11/21,Mauv,"Strayer Education, Inc.",15123,99.04
+7/11/21,Mauv,National Instruments Corporation,14859,18.3
+7/11/21,Mauv,INTL FCStone Inc.,10816,47.62
+7/11/21,Mauv,"Blackrock MuniVest Fund II, Inc.",17570,11.41
+7/11/21,Mauv,Smith (A.O.) Corporation,11739,93.89
+7/11/21,Mauv,Clifton Bancorp Inc.,15562,30.23
+7/11/21,Mauv,"Carbo Ceramics, Inc.",10847,78.49
+7/11/21,Mauv,Alleghany Corporation,15469,96.12
+7/11/21,Mauv,John Hancock Premium Dividend Fund,16223,32.01
+7/11/21,Mauv,Invesco Mortgage Capital Inc.,17606,58.05
+7/11/21,Orange,"Great Elm Capital Group, Inc. ",11773,12.27
+7/11/21,Orange,Invesco Municipal Opportunity Trust,19658,98.71
+7/11/21,Orange,Bank of America Corporation,13710,15.39
+7/11/21,Orange,Genuine Parts Company,12348,47.81
+7/11/21,Orange,Bright Horizons Family Solutions Inc.,15532,47.84
+7/11/21,Orange,Pampa Energia S.A.,19264,76.73
+7/11/21,Orange,"Red Hat, Inc.",10420,38.88
+7/11/21,Orange,Hovnanian Enterprises Inc,16929,80.6
+7/11/21,Orange,"Stanley Black & Decker, Inc.",13897,60.95
+7/11/21,Orange,"Duff & Phelps Utilities Income, Inc.",13961,43.92
+7/11/21,Orange,"Dycom Industries, Inc.",13607,23.4
+7/11/21,Orange,Endeavour Silver Corporation,17271,86.84
+7/11/21,Orange,"Summit Midstream Partners, LP",11743,37.07
+7/11/21,Orange,FB Financial Corporation,19874,76.71
+7/11/21,Orange,"Ecology and Environment, Inc.",10485,37.8
+7/11/21,Orange,"CVR Partners, LP",15344,84.97
+7/11/21,Orange,Nordson Corporation,18129,25.03
+7/11/21,Pink,"Electro-Sensors, Inc.",11035,10.37
+7/11/21,Pink,VelocityShares Daily Inverse VIX Medium-Term ETN,17272,71.13
+7/11/21,Pink,"NII Holdings, Inc.",18507,30.43
+7/11/21,Pink,Callon Petroleum Company,14822,70.68
+7/11/21,Pink,Ophthotech Corporation,14469,90.63
+7/11/21,Pink,Generac Holdlings Inc.,10770,75.77
+7/11/21,Pink,Blackrock MuniYield Pennsylvania Quality Fund,17441,82.13
+7/11/21,Pink,Western Asset Municipal Defined Opportunity Trust Inc,12335,47.07
+7/11/21,Pink,"Hartford Financial Services Group, Inc. (The)",16543,41.36
+7/11/21,Pink,"Revlon, Inc.",12764,54.59
+7/11/21,Pink,"NantKwest, Inc.",17358,17.69
+7/11/21,Pink,"Payment Data Systems, Inc.",15792,53.73
+7/11/21,Pink,The Cushing MLP Total Return Fund,15748,55.47
+7/11/21,Pink,"Natural Gas Services Group, Inc.",14634,90.76
+7/11/21,Pink,Cars.com Inc.,18107,45.06
+7/11/21,Puce,Alliance Data Systems Corporation,19060,92.96
+7/11/21,Puce,Seaspan Corporation,16687,59.49
+7/11/21,Puce,Chemical Financial Corporation,13160,59.98
+7/11/21,Puce,Sears Canada Inc. ,15750,33.37
+7/11/21,Puce,"America's Car-Mart, Inc.",16717,19.7
+7/11/21,Puce,Seritage Growth Properties,16387,81.97
+7/11/21,Puce,"Sanderson Farms, Inc.",15063,91.9
+7/11/21,Puce,"New Ireland Fund, Inc. (The)",18060,58.66
+7/11/21,Puce,"National Bankshares, Inc.",10653,81.02
+7/11/21,Puce,Sabine Royalty Trust,15414,5.42
+7/11/21,Puce,"LGI Homes, Inc.",18835,91.91
+7/11/21,Puce,Cushing Energy Income Fund (The),12218,84.11
+7/11/21,Puce,Rio Tinto Plc,13840,29.27
+7/11/21,Puce,"RF Industries, Ltd.",13155,78.86
+7/11/21,Puce,"Terra Nitrogen Company, L.P.",12446,9.43
+7/11/21,Puce,OncoGenex Pharmaceuticals Inc.,12819,22.18
+7/11/21,Puce,"Bob Evans Farms, Inc.",11734,66.16
+7/11/21,Puce,"Simulations Plus, Inc.",14663,5.01
+7/11/21,Purple,Huntington Bancshares Incorporated,13450,20.02
+7/11/21,Purple,Lear Corporation,15738,99.82
+7/11/21,Purple,"RSP Permian, Inc.",16809,55.8
+7/11/21,Purple,Johnson & Johnson,13596,78.5
+7/11/21,Purple,BLDRS Emerging Markets 50 ADR Index Fund,15000,33.36
+7/11/21,Purple,"B. Riley Financial, Inc.",16486,36.92
+7/11/21,Purple,American States Water Company,18128,83.73
+7/11/21,Purple,Atlantic Alliance Partnership Corp.,16064,50.82
+7/11/21,Purple,Select Comfort Corporation,19629,63.28
+7/11/21,Purple,Dataram Corporation,10517,82.03
+7/11/21,Purple,Moelis & Company,16703,77.75
+7/11/21,Purple,MicroStrategy Incorporated,15378,51.22
+7/11/21,Purple,Scorpio Tankers Inc.,18765,23.68
+7/11/21,Purple,YPF Sociedad Anonima,15606,57
+7/11/21,Purple,Lindsay Corporation,14100,32.3
+7/11/21,Purple,China Telecom Corp Ltd,14565,93.33
+7/11/21,Purple,"Acorda Therapeutics, Inc.",11116,43.7
+7/11/21,Purple,"Townsquare Media, Inc.",17414,66.85
+7/11/21,Purple,M&T Bank Corporation,19369,99.41
+7/11/21,Purple,The First of Long Island Corporation,14443,89.84
+7/11/21,Purple,Abeona Therapeutics Inc.,14430,1.68
+7/11/21,Purple,Chemours Company (The),19674,83.53
+7/11/21,Purple,Knowles Corporation,17053,44.61
+7/11/21,Purple,"Star Gas Partners, L.P.",14454,61.69
+7/11/21,Red,"Perficient, Inc.",15684,37.56
+7/11/21,Red,RAIT Financial Trust,13477,35.57
+7/11/21,Red,"Black Diamond, Inc.",14952,25.8
+7/11/21,Red,Virtus Global Multi-Sector Income Fund,14431,93.61
+7/11/21,Red,John Hancock Tax Advantaged Dividend Income Fund,16870,29.03
+7/11/21,Red,VelocityShares 3x Inverse Silver ETN,17846,58.96
+7/11/21,Red,Grana y Montero S.A.A.,15598,30.23
+7/11/21,Red,Kyocera Corporation,16870,37.6
+7/11/21,Red,iRadimed Corporation,15402,58.9
+7/11/21,Red,Cloud Peak Energy Inc,17202,72.73
+7/11/21,Red,Natl Westminster Pfd,10957,10.07
+7/11/21,Red,Campbell Soup Company,15512,26.57
+7/11/21,Red,"Barracuda Networks, Inc.",19138,83.85
+7/11/21,Red,"Williams Companies, Inc. (The)",11899,22.69
+7/11/21,Red,Legg Mason BW Global Income Opportunities Fund Inc.,18451,63.91
+7/11/21,Red,General Electric Capital Corporation,16668,52.11
+7/11/21,Red,Hovnanian Enterprises Inc,10460,46.25
+7/11/21,Red,Granite Construction Incorporated,13940,19.34
+7/11/21,Red,Virtusa Corporation,12423,44.2
+7/11/21,Red,"HomeStreet, Inc.",13583,77.46
+7/11/21,Red,Community Healthcare Trust Incorporated,13655,27.5
+7/11/21,Red,"A. Schulman, Inc.",10488,10.21
+7/11/21,Red,Nymox Pharmaceutical Corporation,13549,6.31
+7/11/21,Red,"Theravance Biopharma, Inc.",19779,12.27
+7/11/21,Teal,"Century Communities, Inc.",19519,27.35
+7/11/21,Teal,"America Movil, S.A.B. de C.V.",11315,39.9
+7/11/21,Teal,Broadcom Limited,12248,66.5
+7/11/21,Teal,Yelp Inc.,14565,52.97
+7/11/21,Teal,"RTI Surgical, Inc.",19072,32.69
+7/11/21,Teal,CarMax Inc,16271,22.98
+7/11/21,Teal,"Copa Holdings, S.A.",10094,94.25
+7/11/21,Teal,"WideOpenWest, Inc.",13891,7.74
+7/11/21,Teal,"ConnectOne Bancorp, Inc.",18370,85.87
+7/11/21,Teal,"Comstock Resources, Inc.",15158,8.72
+7/11/21,Teal,"Sangamo Therapeutics, Inc.",10131,31.25
+7/11/21,Teal,Legg Mason Developed EX-US Diversified Core ETF,11350,28.02
+7/11/21,Teal,"Haverty Furniture Companies, Inc.",17073,7.71
+7/11/21,Turquoise,"Profire Energy, Inc.",19695,68.27
+7/11/21,Turquoise,Liberty Global plc,19308,12.1
+7/11/21,Turquoise,PowerShares DWA Consumer Cyclicals Momentum Portfolio,14410,11.91
+7/11/21,Turquoise,"Valeritas Holdings, Inc.",14440,81.53
+7/11/21,Turquoise,Cardtronics plc,19299,62.89
+7/11/21,Turquoise,Hospitality Properties Trust,17378,1.18
+7/11/21,Turquoise,AllianceBernstein Holding L.P.,13847,73.25
+7/11/21,Turquoise,Wayne Savings Bancshares Inc.,15144,30.42
+7/11/21,Turquoise,TravelCenters of America LLC,13399,84.6
+7/11/21,Turquoise,Public Storage,15245,17.95
+7/11/21,Turquoise,"Blackrock MuniYield New York Quality Fund, Inc.",15168,10.58
+7/11/21,Turquoise,iShares S&P Global Clean Energy Index Fund,13096,13.19
+7/11/21,Turquoise,Amphenol Corporation,16189,78.2
+7/11/21,Turquoise,"Famous Dave's of America, Inc.",10946,68.09
+7/11/21,Turquoise,Hershey Company (The),17952,87.44
+7/11/21,Turquoise,"GlycoMimetics, Inc.",10053,4.89
+7/11/21,Violet,China Cord Blood Corporation,11564,47.12
+7/11/21,Violet,Ramco-Gershenson Properties Trust,10188,45.63
+7/11/21,Violet,Axis Capital Holdings Limited,12182,28.1
+7/11/21,Violet,"Banco Santander, S.A.",16195,57.43
+7/11/21,Violet,U.S. Bancorp,11252,29.59
+7/11/21,Violet,Taro Pharmaceutical Industries Ltd.,12031,98.6
+7/11/21,Violet,Navient Corporation,16266,59.02
+7/11/21,Violet,"Inter Parfums, Inc.",18134,28.78
+7/11/21,Violet,The Blackstone Group L.P.,18634,58.09
+7/11/21,Violet,Deltic Timber Corporation,16114,27.19
+7/11/21,Violet,AC Immune SA,12694,95.86
+7/11/21,Violet,"Global Blood Therapeutics, Inc.",14850,3.29
+7/11/21,Violet,"Pluristem Therapeutics, Inc.",11077,93.63
+7/11/21,Violet,Public Storage,19774,17.86
+7/11/21,Yellow,"TRACON Pharmaceuticals, Inc.",10666,15.11
+7/11/21,Yellow,Starbucks Corporation,19556,86.47
+7/11/21,Yellow,Aegon NV,13077,87.03
+7/11/21,Yellow,"Stag Industrial, Inc.",12700,32.26
+7/11/21,Yellow,First Trust Emerging Markets Local Currency Bond ETF,14640,79.13
+7/11/21,Yellow,First Potomac Realty Trust,10688,4.65
+7/11/21,Yellow,"Southern First Bancshares, Inc.",17256,55.97
+7/11/21,Yellow,National Research Corporation,13912,63.27
+7/11/21,Yellow,"Mota Group, Inc.",15039,51.01
+7/11/21,Yellow,Semtech Corporation,15450,31.45
+7/11/21,Yellow,"A V Homes, Inc.",11169,92.89
+7/11/21,Yellow,"China Ceramics Co., Ltd.",11258,24.85
+7/11/21,Yellow,POSCO,17492,18.76
+7/11/21,Yellow,Arbor Realty Trust,12508,48.61
+7/11/21,Yellow,Osisko Gold Royalties Ltd,11053,55.44
+7/11/21,Yellow,Sun Hydraulics Corporation,19588,44.57
+7/11/21,Yellow,Select Comfort Corporation,17825,56.56
+7/11/21,Yellow,"Popular, Inc.",10556,58.68
+7/11/21,Yellow,Exterran Corporation,16755,48.93
+7/11/21,Yellow,"Entegris, Inc.",14461,58.57
+7/11/21,Yellow,Virtus Global Dividend & Income Fund Inc.,16196,18.09
+7/11/21,Yellow,HNI Corporation,19419,63.83
+7/11/21,Yellow,Aehr Test Systems,19542,74.73
+7/11/21,Yellow,"Armstrong Flooring, Inc.",16203,51.35
+7/12/21,Aquamarine,"Parke Bancorp, Inc.",17700,18.49
+7/12/21,Aquamarine,TEGNA Inc.,11854,43.92
+7/12/21,Aquamarine,Dynavax Technologies Corporation,12662,5.24
+7/12/21,Aquamarine,First Trust Brazil AlphaDEX Fund,13668,55.34
+7/12/21,Aquamarine,Costamare Inc.,14767,30.53
+7/12/21,Aquamarine,"Copa Holdings, S.A.",15521,31.09
+7/12/21,Aquamarine,"Voya Financial, Inc.",14152,58.9
+7/12/21,Aquamarine,Toll Brothers Inc.,18710,19.86
+7/12/21,Aquamarine,Nuveen Core Equity Alpha Fund,10758,3.28
+7/12/21,Aquamarine,Movado Group Inc.,14203,39.37
+7/12/21,Aquamarine,Cathay General Bancorp,15506,19.19
+7/12/21,Aquamarine,"Broadridge Financial Solutions, Inc.",15556,62.4
+7/12/21,Aquamarine,"Urban One, Inc. ",18212,21.89
+7/12/21,Aquamarine,Adobe Systems Incorporated,18046,93.07
+7/12/21,Aquamarine,Tenet Healthcare Corporation,17939,57.6
+7/12/21,Aquamarine,"O'Reilly Automotive, Inc.",10559,22.33
+7/12/21,Aquamarine,"Advaxis, Inc.",17152,22.36
+7/12/21,Aquamarine,"Athenex, Inc.",17716,1.67
+7/12/21,Aquamarine,"AmTrust Financial Services, Inc.",18090,92.96
+7/12/21,Aquamarine,"Aptose Biosciences, Inc.",14851,63.82
+7/12/21,Aquamarine,"Adams Diversified Equity Fund, Inc.",16282,14.51
+7/12/21,Aquamarine,First Trust Indxx Global Agriculture ETF,13792,94.52
+7/13/21,Blue,"Duff & Phelps Utility & Corporate Bond Trust, Inc.",10733,66.55
+7/12/21,Blue,FinTech Acquisition Corp. II,17314,41.16
+7/12/21,Blue,First Bank,13871,93.7
+7/11/21,Blue,First Trust,11608,21.46
+7/13/21,Blue,Frontier Communications Corporation,16845,4.64
+7/11/21,Blue,GDS Holdings Limited,10949,67.03
+7/12/21,Blue,HomeTown Bankshares Corporation,14344,25.1
+7/11/21,Blue,Horace Mann Educators Corporation,17681,40.85
+7/12/21,Blue,Independent Bank Corp.,14564,74.02
+7/11/21,Blue,"Intrepid Potash, Inc",12024,75.95
+7/11/21,Blue,IPG Photonics Corporation,16121,91.28
+7/12/21,Blue,"Liberty Expedia Holdings, Inc.",10121,28.34
+7/12/21,Blue,"National Bankshares, Inc.",14963,78.07
+7/11/21,Blue,Nuveen Real Estate Fund,13537,24.31
+7/11/21,Blue,PACCAR Inc.,11902,32.21
+7/12/21,Blue,Pebblebrook Hotel Trust,18764,43.3
+7/12/21,Blue,"Poage Bankshares, Inc.",15644,31.01
+7/13/21,Blue,PowerShares DWA Consumer Staples Momentum Portfolio,14846,97.4
+7/11/21,Blue,PowerShares S&P SmallCap Health Care Portfolio,14871,57.58
+7/12/21,Blue,"Rockwell Collins, Inc.",17075,56.57
+7/11/21,Blue,"Safety Insurance Group, Inc.",14353,20.07
+7/12/21,Crimson,PowerShares DWA Healthcare Momentum Portfolio,12063,5.67
+7/12/21,Crimson,"Steven Madden, Ltd.",18489,17.03
+7/12/21,Crimson,Deutsche Bank AG,17479,2.19
+7/12/21,Crimson,RAIT Financial Trust,19789,79.58
+7/12/21,Crimson,"Washington Trust Bancorp, Inc.",18917,20.87
+7/12/21,Crimson,"Key Technology, Inc.",10512,67.41
+7/12/21,Crimson,"SkyWest, Inc.",10568,89.7
+7/12/21,Crimson,Vanguard Long-Term Corporate Bond ETF,12094,41.52
+7/12/21,Crimson,Templeton Emerging Markets Fund,16300,99.34
+7/12/21,Crimson,Garrison Capital Inc.,17097,85.84
+7/12/21,Crimson,Golar LNG Partners LP,10182,94.13
+7/12/21,Crimson,BT Group plc,13892,58.99
+7/12/21,Crimson,Vulcan Materials Company,11224,43.54
+7/12/21,Crimson,PowerShares S&P SmallCap Information Technology Portfolio,11802,58.88
+7/12/21,Crimson,"Telephone and Data Systems, Inc.",16795,83.69
+7/12/21,Crimson,"Entergy New Orleans, Inc.",10725,44.02
+7/12/21,Crimson,Nuveen Select Tax Free Income Portfolio II,17241,96.02
+7/12/21,Crimson,"CYS Investments, Inc.",13544,63.75
+7/12/21,Crimson,Alcentra Capital Corp.,10248,58.22
+7/12/21,Crimson,Rosetta Stone,14897,2.18
+7/12/21,Fuscia,Boulevard Acquisition Corp. II,13844,51.5
+7/12/21,Fuscia,First Trust Taiwan AlphaDEX Fund,17861,80.38
+7/12/21,Fuscia,Vanguard Russell 2000 Growth ETF,17513,43.71
+7/12/21,Fuscia,"Achaogen, Inc.",18482,52.7
+7/12/21,Fuscia,"Dicerna Pharmaceuticals, Inc.",16643,32.49
+7/12/21,Fuscia,J P Morgan Chase & Co,13382,16.79
+7/12/21,Fuscia,Banco Santander Brasil SA,14236,99.28
+7/12/21,Fuscia,Xerox Corporation,19697,43.43
+7/12/21,Fuscia,The Spectranetics Corporation,19184,4.85
+7/12/21,Fuscia,"Hibbett Sports, Inc.",17823,69.01
+7/12/21,Fuscia,"Transcat, Inc.",15608,90.28
+7/12/21,Fuscia,"LSC Communications, Inc.",17522,63.96
+7/12/21,Fuscia,Nuveen Insured California Select Tax-Free Income Portfolio,11516,60.38
+7/12/21,Fuscia,"Agilysys, Inc.",11161,70.04
+7/12/21,Fuscia,"First Financial Northwest, Inc.",14883,44.02
+7/12/21,Goldenrod,HSBC Holdings plc,15966,19.11
+7/12/21,Goldenrod,"Oppenheimer Holdings, Inc.",18197,70.75
+7/12/21,Goldenrod,"Himax Technologies, Inc.",13638,43.65
+7/12/21,Goldenrod,Deutsch Bk Contingent Cap Tr V,16472,40.07
+7/12/21,Goldenrod,Addus HomeCare Corporation,13751,99.32
+7/12/21,Goldenrod,Federal Agricultural Mortgage Corporation,18776,26.24
+7/12/21,Goldenrod,"Tandem Diabetes Care, Inc.",11486,13.26
+7/12/21,Goldenrod,"Werner Enterprises, Inc.",15018,2.52
+7/12/21,Goldenrod,SandRidge Permian Trust,13188,78.54
+7/12/21,Goldenrod,Valley National Bancorp,14096,95.33
+7/12/21,Goldenrod,"MACOM Technology Solutions Holdings, Inc.",15634,10.11
+7/12/21,Goldenrod,"Activision Blizzard, Inc",17048,21.39
+7/12/21,Goldenrod,Gafisa SA,10345,45.11
+7/12/21,Goldenrod,Dorian LPG Ltd.,19516,18.76
+7/12/21,Goldenrod,National General Holdings Corp,19097,66.34
+7/12/21,Goldenrod,United Therapeutics Corporation,10731,14.42
+7/12/21,Green,Celyad SA,13320,2.75
+7/12/21,Green,"Entellus Medical, Inc.",15173,23.69
+7/12/21,Green,Otter Tail Corporation,17258,42.75
+7/12/21,Green,Medley Capital Corporation,12016,25.87
+7/12/21,Green,BLDRS Europe 100 ADR Index Fund,12244,38.44
+7/12/21,Green,"Social Reality, Inc.",14074,87.45
+7/12/21,Green,Principal Financial Group Inc,13324,52.92
+7/12/21,Green,Endo International plc,17985,7.07
+7/12/21,Green,"Advanced Drainage Systems, Inc.",11695,2.44
+7/12/21,Green,"United Parcel Service, Inc.",18947,49.91
+7/12/21,Green,"Surmodics, Inc.",17529,69.05
+7/12/21,Indigo,"Flotek Industries, Inc.",18966,87.08
+7/12/21,Indigo,"Tarena International, Inc.",11532,36.49
+7/12/21,Indigo,Nuveen Insured New York Select Tax-Free Income Portfolio,19002,89.06
+7/12/21,Indigo,Great Lakes Dredge & Dock Corporation,18964,76.95
+7/12/21,Indigo,"Hebron Technology Co., Ltd.",11066,30.56
+7/12/21,Indigo,"Ventas, Inc.",10683,81.43
+7/12/21,Indigo,Hersha Hospitality Trust,16154,91.67
+7/12/21,Indigo,Cintas Corporation,16542,59.07
+7/12/21,Indigo,Geopark Ltd,13214,37.82
+7/12/21,Indigo,Teekay Offshore Partners L.P.,16771,82.79
+7/12/21,Indigo,"Paramount Group, Inc.",19341,14.96
+7/12/21,Indigo,Southwest Airlines Company,15093,83.51
+7/12/21,Indigo,Cerner Corporation,17320,5.11
+7/12/21,Indigo,Tower Semiconductor Ltd.,17247,6.95
+7/12/21,Khaki,"Blackrock Debt Strategies Fund, Inc.",10863,29.13
+7/12/21,Khaki,"Advanced Semiconductor Engineering, Inc.",19880,61.7
+7/12/21,Khaki,Welltower Inc.,10045,48.93
+7/12/21,Khaki,Cemtrex Inc.,18227,14.27
+7/12/21,Khaki,Sears Canada Inc. ,19989,58.36
+7/12/21,Khaki,DTE Energy Company,19443,67.1
+7/12/21,Khaki,"Model N, Inc.",18852,34.48
+7/12/21,Khaki,Hutchison China MediTech Limited,11698,25.45
+7/12/21,Khaki,Vident International Equity Fund,18882,79.76
+7/12/21,Khaki,Forward Air Corporation,18771,47.9
+7/12/21,Khaki,Invesco Pennsylvania Value Municipal Income Trust,18435,77.22
+7/12/21,Khaki,Mechel PAO,16065,58.64
+7/12/21,Khaki,"Forterra, Inc.",14871,61.69
+7/12/21,Khaki,"Goldman Sachs BDC, Inc.",13711,8.49
+7/12/21,Khaki,"Malvern Bancorp, Inc.",19984,76.48
+7/12/21,Khaki,Baytex Energy Corp,16140,93.42
+7/12/21,Khaki,Ashford Hospitality Trust Inc,14401,60.41
+7/12/21,Khaki,"Aduro Biotech, Inc.",10929,41.2
+7/12/21,Maroon,"Energy Transfer Partners, L.P.",12967,87.5
+7/12/21,Maroon,Moelis & Company,14662,21.81
+7/12/21,Maroon,Flaherty & Crumrine Preferred Securities Income Fund Inc,19817,74.33
+7/12/21,Maroon,Realty Income Corporation,17554,61.35
+7/12/21,Maroon,Infosys Limited,11192,3.18
+7/12/21,Maroon,AGCO Corporation,15002,18.61
+7/12/21,Maroon,Banco Bilbao Viscaya Argentaria S.A.,12855,37.45
+7/12/21,Maroon,"Caseys General Stores, Inc.",14719,49.44
+7/12/21,Maroon,DENTSPLY SIRONA Inc.,14517,79.81
+7/12/21,Maroon,Tuttle Tactical Management Multi-Strategy Income ETF,19719,49.81
+7/12/21,Maroon,Rayonier Advanced Materials Inc.,18624,31
+7/12/21,Maroon,"MabVax Therapeutics Holdings, Inc.",19509,4.55
+7/12/21,Maroon,"Nexeo Solutions, Inc.",12612,87.71
+7/12/21,Mauv,"Kimball International, Inc.",12667,23.02
+7/12/21,Mauv,Teekay LNG Partners L.P.,11352,1.43
+7/12/21,Mauv,"Spark Energy, Inc.",10739,27.06
+7/12/21,Mauv,"NextEra Energy, Inc.",15445,34.39
+7/12/21,Mauv,Brookdale Senior Living Inc.,18329,54.68
+7/12/21,Mauv,Atlantic American Corporation,11747,3.71
+7/12/21,Mauv,Annaly Capital Management Inc,14206,82.54
+7/12/21,Mauv,Dawson Geophysical Company,10602,63.05
+7/12/21,Mauv,Blueprint Medicines Corporation,13059,74.9
+7/12/21,Mauv,Intra-Cellular Therapies Inc.,11474,67.91
+7/12/21,Mauv,DAQO New Energy Corp.,14831,62.93
+7/12/21,Mauv,"NeuroMetrix, Inc.",11642,70.48
+7/12/21,Mauv,First Trust Dorsey Wright Dynamic Focus 5 ETF,10226,14.41
+7/12/21,Mauv,"G-III Apparel Group, LTD.",15297,25.31
+7/12/21,Mauv,"Redwood Trust, Inc.",10383,69.08
+7/12/21,Orange,Tiptree Inc.,16233,43.76
+7/12/21,Orange,Fortress Transportation and Infrastructure Investors LLC,14154,25
+7/12/21,Orange,Horizon Bancorp (IN),11271,77.7
+7/12/21,Orange,HDFC Bank Limited,11793,64.89
+7/12/21,Orange,National General Holdings Corp,16591,32.88
+7/12/21,Orange,Legg Mason Emerging Markets Diversified Core ETF,12856,75.93
+7/12/21,Orange,Sabre Corporation,13550,28.53
+7/12/21,Orange,"Edgewater Technology, Inc.",16363,74.46
+7/12/21,Orange,Banner Corporation,12761,2.29
+7/12/21,Orange,Radcom Ltd.,12396,20.11
+7/12/21,Orange,"Gray Television, Inc.",11519,37.92
+7/12/21,Orange,Two Harbors Investments Corp,14954,98.12
+7/12/21,Orange,Stone Energy Corporation,10511,9.65
+7/12/21,Orange,DMC Global Inc.,16674,36.51
+7/12/21,Orange,"Omnicell, Inc.",13688,73.63
+7/12/21,Orange,Boyd Gaming Corporation,13233,27.45
+7/12/21,Orange,Colonial High Income Municipal Trust,10259,37.75
+7/12/21,Orange,First Trust Indxx Global Agriculture ETF,17700,57.47
+7/12/21,Pink,Westwood Holdings Group Inc,19497,77.95
+7/12/21,Pink,"Ulta Beauty, Inc.",15016,90.07
+7/12/21,Pink,"Surgery Partners, Inc.",12394,96.2
+7/12/21,Pink,Grupo Financiero Galicia S.A.,17213,94.64
+7/12/21,Pink,WSI Industries Inc.,19299,8.95
+7/12/21,Pink,IQ Chaikin U.S. Small Cap ETF,17136,4.59
+7/12/21,Pink,AXT Inc,11521,4.24
+7/12/21,Pink,CVD Equipment Corporation,18624,39.99
+7/12/21,Pink,Kayne Anderson Acquisition Corp.,19768,73.6
+7/12/21,Pink,Ritchie Bros. Auctioneers Incorporated,17849,82.84
+7/12/21,Pink,Kimberly-Clark Corporation,15831,54.25
+7/12/21,Pink,KKR & Co. L.P.,19901,73.98
+7/12/21,Pink,Southwestern Energy Company,11396,40.7
+7/12/21,Pink,Public Storage,12505,29
+7/12/21,Pink,Novadaq Technologies Inc,11229,56.61
+7/12/21,Pink,National Energy Services Reunited Corp.,19129,90.86
+7/12/21,Pink,Kellogg Company,18281,41.62
+7/12/21,Puce,Ita? CorpBanca,12465,32.84
+7/12/21,Puce,J P Morgan Chase & Co,10759,99.12
+7/12/21,Puce,"Healthcare Services Group, Inc.",18255,16.38
+7/12/21,Puce,LRAD Corporation,13520,33.98
+7/12/21,Puce,Northrim BanCorp Inc,17356,76.88
+7/12/21,Puce,"Health Insurance Innovations, Inc.",19975,88.86
+7/12/21,Puce,"Synthetic Fixed-Income Securities, Inc.",12336,77.02
+7/12/21,Puce,"WageWorks, Inc.",12292,91.77
+7/12/21,Puce,"Kadmon Holdings, Inc.",17100,77.63
+7/12/21,Puce,"American Software, Inc.",12090,24.02
+7/12/21,Puce,"Consolidated Communications Holdings, Inc.",17742,91.17
+7/12/21,Puce,Osisko Gold Royalties Ltd,17625,60.23
+7/12/21,Puce,"Safe Bulkers, Inc",17424,93.63
+7/12/21,Puce,Liberty Property Trust,12297,26.27
+7/12/21,Puce,Great Ajax Corp.,18052,93.57
+7/12/21,Puce,"Mitcham Industries, Inc.",13429,82.91
+7/12/21,Puce,Forward Air Corporation,13474,28.46
+7/12/21,Puce,Liberty Media Corporation,13197,20.33
+7/12/21,Purple,"New York Community Bancorp, Inc.",11372,36.8
+7/12/21,Purple,"Power Integrations, Inc.",13769,88.67
+7/12/21,Purple,"Taubman Centers, Inc.",11642,71.44
+7/12/21,Purple,Electrum Special Acquisition Corporation,12708,54.51
+7/12/21,Purple,Regal Beloit Corporation,18621,40.42
+7/12/21,Purple,Third Point Reinsurance Ltd.,18142,13.23
+7/12/21,Purple,"Insperity, Inc.",15563,7.2
+7/12/21,Purple,National Energy Services Reunited Corp.,18540,1.13
+7/12/21,Purple,iPass Inc.,16732,56.08
+7/12/21,Purple,"Prudential Financial, Inc.",14421,15.22
+7/12/21,Purple,"Safe Bulkers, Inc",17008,2.7
+7/12/21,Purple,"Guaranty Federal Bancshares, Inc.",16345,59.93
+7/12/21,Purple,Seanergy Maritime Holdings Corp,16162,16.56
+7/12/21,Purple,Tri Continental Corporation,18990,18.28
+7/12/21,Purple,Federated Premier Municipal Income Fund,14255,32.34
+7/12/21,Purple,DURECT Corporation,13022,20.94
+7/12/21,Purple,iShares 0-5 Year Investment Grade Corporate Bond ETF,13678,11.86
+7/12/21,Purple,Cowen Inc.,13747,9.17
+7/12/21,Purple,Vanguard Total International Stock ETF,17946,87.8
+7/12/21,Purple,Public Storage,14716,45.2
+7/12/21,Purple,Protective Life Corporation,11880,82.68
+7/12/21,Purple,Portland General Electric Company,11911,7.35
+7/12/21,Red,Arcos Dorados Holdings Inc.,19593,79.06
+7/12/21,Red,Global X Yieldco Index ETF,12070,21.9
+7/12/21,Red,Nuveen California Quality Municipal Income Fund,10929,61.45
+7/12/21,Red,"Entergy Louisiana, Inc.",19341,20.95
+7/12/21,Red,QAD Inc.,17785,90.22
+7/12/21,Red,"Aclaris Therapeutics, Inc.",13260,23.32
+7/12/21,Red,Vident Core US Equity ETF,12326,88.89
+7/12/21,Red,BlackRock Capital Investment Corporation,13414,61.83
+7/12/21,Red,SL Green Realty Corporation,16386,90.98
+7/12/21,Red,iShares MSCI Qatar Capped ETF,19925,39.48
+7/12/21,Red,Fresenius Medical Care Corporation,19132,54.02
+7/12/21,Red,Scudder Municiple Income Trust,15715,24.05
+7/12/21,Red,"TrueBlue, Inc.",16927,99.8
+7/12/21,Red,Conyers Park Acquisition Corp.,14690,92.21
+7/12/21,Red,Nuveen Select Tax Free Income Portfolio III,19205,74.49
+7/12/21,Red,"Industrial Services of America, Inc.",14883,68.26
+7/12/21,Red,"Stanley Black & Decker, Inc.",17736,84.59
+7/12/21,Red,Graco Inc.,17430,20.31
+7/12/21,Red,iShares S&P India Nifty 50 Index Fund,10483,61.78
+7/12/21,Red,"Arch Coal, Inc.",19605,73.29
+7/12/21,Red,"AutoNation, Inc.",16142,85.9
+7/12/21,Red,BanColombia S.A.,19672,91.33
+7/12/21,Red,"Morgan Stanley India Investment Fund, Inc.",19573,44.89
+7/12/21,Red,"Emerald Expositions Events, Inc.",19775,6.01
+7/12/21,Teal,"Spark Energy, Inc.",14173,21.46
+7/12/21,Teal,The Providence Service Corporation,13814,49.42
+7/12/21,Teal,"F5 Networks, Inc.",14367,66.94
+7/12/21,Teal,"Ooma, Inc.",12068,57.09
+7/12/21,Teal,"LGI Homes, Inc.",18086,88.62
+7/12/21,Teal,Nuveen Michigan Quality Municipal Income Fund,15279,62.76
+7/12/21,Teal,Pennsylvania Real Estate Investment Trust,12753,91.18
+7/12/21,Teal,AEterna Zentaris Inc.,10669,48.6
+7/12/21,Teal,INTL FCStone Inc.,19032,23.8
+7/12/21,Teal,"Blueknight Energy Partners L.P., L.L.C.",11007,44.54
+7/12/21,Teal,DTE Energy Company,18971,75.67
+7/12/21,Teal,Jensyn Acquistion Corp.,16046,23.58
+7/12/21,Teal,Global X S&P 500 Catholic Values ETF,16381,41.92
+7/12/21,Teal,"Carrizo Oil & Gas, Inc.",19430,51.29
+7/12/21,Teal,"SunOpta, Inc.",15682,90.29
+7/12/21,Teal,Ichor Holdings,18230,90
+7/12/21,Teal,Nordson Corporation,16641,89.89
+7/12/21,Teal,"Crown Crafts, Inc.",17667,20.25
+7/12/21,Teal,"Paycom Software, Inc.",12539,57.52
+7/12/21,Teal,"Lilis Energy, Inc.",19894,80.59
+7/12/21,Teal,"Dynex Capital, Inc.",16865,12.71
+7/12/21,Teal,"CBAK Energy Technology, Inc.",13113,40.68
+7/12/21,Teal,PetroChina Company Limited,12741,82.82
+7/12/21,Teal,"G. Willi-Food International,  Ltd.",12878,88.76
+7/12/21,Turquoise,"Edgewater Technology, Inc.",13288,15.12
+7/12/21,Turquoise,Wells Fargo & Company,19240,82.43
+7/12/21,Turquoise,TransMontaigne Partners L.P.,15940,72.04
+7/12/21,Turquoise,"Insight Enterprises, Inc.",17167,14.61
+7/12/21,Turquoise,Tribune Media Company,13973,61.68
+7/12/21,Turquoise,"O'Reilly Automotive, Inc.",15644,12.26
+7/12/21,Turquoise,Public Storage,12188,34.17
+7/12/21,Turquoise,"Tilly's, Inc.",10607,97.9
+7/12/21,Turquoise,PTC Inc.,14960,34.02
+7/12/21,Turquoise,CGG,18166,67.96
+7/12/21,Turquoise,Oxford Lane Capital Corp.,13616,38.06
+7/12/21,Turquoise,Intelsat S.A.,10573,64.83
+7/12/21,Turquoise,"CYS Investments, Inc.",10327,32.01
+7/12/21,Turquoise,"M.D.C. Holdings, Inc.",10927,31.87
+7/12/21,Turquoise,Sanmina Corporation,14709,47.79
+7/12/21,Turquoise,PowerShares S&P SmallCap Consumer Discretionary Portfolio,10446,91.93
+7/12/21,Turquoise,Nuveen Ohio Quality Municipal Income Fund,12089,72.96
+7/12/21,Violet,"Affiliated Managers Group, Inc.",13796,64.86
+7/12/21,Violet,"Sage Therapeutics, Inc.",17380,68.09
+7/12/21,Violet,National Energy Services Reunited Corp.,15057,39.41
+7/12/21,Violet,Covanta Holding Corporation,10022,79.19
+7/12/21,Violet,FlexShares US Quality Large Cap Index Fund,10880,71.08
+7/12/21,Violet,Targa Resources Partners LP,15527,69.48
+7/12/21,Violet,Wheaton Precious Metals Corp.,17371,62.33
+7/12/21,Violet,"Forward Industries, Inc.",10057,71.18
+7/12/21,Violet,Mesabi Trust,18972,24.26
+7/12/21,Violet,Deutsch Bk Contingent Cap Tr V,15708,77.6
+7/12/21,Violet,The Blackstone Group L.P.,18775,23.47
+7/12/21,Violet,Mistras Group Inc,15603,22.9
+7/12/21,Violet,Kamada Ltd.,15545,20.26
+7/12/21,Violet,"Barrett Business Services, Inc.",11373,34.81
+7/12/21,Violet,IntriCon Corporation,13229,60.43
+7/12/21,Violet,Seadrill Limited,15808,67.78
+7/12/21,Violet,"USLIFE Income Fund, Inc.",19315,31.44
+7/12/21,Yellow,Teleflex Incorporated,18319,96.5
+7/12/21,Yellow,"Image Sensing Systems, Inc.",12022,53.98
+7/12/21,Yellow,"BioTelemetry, Inc.",18257,46.66
+7/12/21,Yellow,iStar Financial Inc.,17948,38.83
+7/12/21,Yellow,United States Cellular Corporation,19759,64.67
+7/12/21,Yellow,Lincoln National Corporation,16673,78.73
+7/12/21,Yellow,Jabil Inc.,14747,60.03
+7/12/21,Yellow,NXT-ID Inc.,10212,27.58
+7/12/21,Yellow,"Kratos Defense & Security Solutions, Inc.",12697,50.73
+7/12/21,Yellow,Kamada Ltd.,19603,6.29
+7/12/21,Yellow,"New York Mortgage Trust, Inc.",12419,17.02
+7/12/21,Yellow,TEGNA Inc.,16161,1.3
+7/12/21,Yellow,Grupo Aeroportuario del Centro Norte S.A.B. de C.V.,17718,16.96
+7/12/21,Yellow,Legg Mason Developed EX-US Diversified Core ETF,10782,21.46
+7/12/21,Yellow,"Pandora Media, Inc.",11042,84.76
+7/12/21,Yellow,HNI Corporation,16081,60.35
+7/13/21,Aquamarine,"Wilhelmina International, Inc.",17573,61.23
+7/13/21,Aquamarine,"Mid-Con Energy Partners, LP",10996,28.63
+7/13/21,Aquamarine,Western Alliance Bancorporation,16315,73.76
+7/13/21,Aquamarine,Dynagas LNG Partners LP,11707,68.63
+7/13/21,Aquamarine,"InfraREIT, Inc.",15186,46.56
+7/13/21,Aquamarine,VivoPower International PLC,13161,77.83
+7/13/21,Aquamarine,ContraFect Corporation,10472,44.69
+7/13/21,Aquamarine,Compugen Ltd.,14423,50.88
+7/13/21,Aquamarine,Arrow DWA Tactical ETF,11658,41.94
+7/13/21,Aquamarine,Calgon Carbon Corporation,13246,59.61
+7/12/21,Blue,"SI Financial Group, Inc.",19892,35.95
+7/12/21,Blue,Sohu.com Inc.,16982,65.54
+7/13/21,Blue,Sonoco Products Company,17170,16.8
+7/11/21,Blue,Southern California Edison Company,15961,2.28
+7/13/21,Blue,"Southern National Bancorp of Virginia, Inc.",10423,26.08
+7/13/21,Blue,Stellar Acquisition III Inc.,17422,33.02
+7/13/21,Blue,"Superior Uniform Group, Inc.",13397,60.25
+7/12/21,Blue,TOR Minerals International Inc,16864,58.42
+7/11/21,Blue,"tronc, Inc.",15598,61.34
+7/13/21,Blue,Ultrapar Participacoes S.A.,11327,62.98
+7/12/21,Blue,WD-40 Company,13908,31.91
+7/11/21,Blue,Western Asset Global Corporate Defined Opportunity Fund Inc.,19205,3.19
+7/13/21,Crimson,Wipro Limited,18184,34.97
+7/13/21,Crimson,Comcast Corporation,16478,36.49
+7/13/21,Crimson,Chemung Financial Corp,11489,51.19
+7/13/21,Crimson,"Mizuho Financial Group, Inc.",12407,16.08
+7/13/21,Crimson,"Diversified Restaurant Holdings, Inc.",19606,11.73
+7/13/21,Crimson,Ship Finance International Limited,18403,42.65
+7/13/21,Crimson,"EnerNOC, Inc.",17784,42.82
+7/13/21,Crimson,State Street Corporation,18783,44.05
+7/13/21,Crimson,American Express Company,14332,39.15
+7/13/21,Crimson,"Brooks Automation, Inc.",13620,48.72
+7/13/21,Crimson,Applied DNA Sciences Inc,16912,8.65
+7/13/21,Crimson,PowerShares S&P SmallCap Financials Portfolio,18121,96.94
+7/13/21,Crimson,China Recycling Energy Corporation,13366,26.79
+7/13/21,Crimson,"Floor & Decor Holdings, Inc.",13021,55.24
+7/13/21,Crimson,J P Morgan Chase & Co,19695,16.23
+7/13/21,Crimson,"Lifeway Foods, Inc.",16595,85.31
+7/13/21,Crimson,Templeton Emerging Markets Fund,12169,44.49
+7/13/21,Crimson,"Ringcentral, Inc.",16848,79.03
+7/13/21,Crimson,Investar Holding Corporation,11986,68.32
+7/13/21,Crimson,Greif Bros. Corporation,12916,14.8
+7/13/21,Fuscia,"VistaGen Therapeutics, Inc.",17949,64.98
+7/13/21,Fuscia,"Fiserv, Inc.",18688,14.03
+7/13/21,Fuscia,"Meta Financial Group, Inc.",17799,95.07
+7/13/21,Fuscia,"Washington Federal, Inc.",16043,9.74
+7/13/21,Fuscia,Dextera Surgical Inc.,14892,86.66
+7/13/21,Fuscia,Acceleron Pharma Inc.,19421,95.67
+7/13/21,Fuscia,Bank of N.T. Butterfield & Son Limited (The),14459,92.04
+7/13/21,Fuscia,"Comstock Resources, Inc.",10304,70.38
+7/13/21,Fuscia,Stantec Inc,19491,10.25
+7/13/21,Fuscia,The Health and Fitness ETF,15182,84.51
+7/13/21,Fuscia,"Penn National Gaming, Inc.",12830,44.64
+7/13/21,Fuscia,"Columbia Property Trust, Inc.",15235,40.83
+7/13/21,Fuscia,NVIDIA Corporation,17328,88.8
+7/13/21,Fuscia,"Goldman Sachs Group, Inc. (The)",15765,95.93
+7/13/21,Fuscia,Tractor Supply Company,18378,73.51
+7/13/21,Goldenrod,Ivy High Income Opportunities Fund,19349,14.22
+7/13/21,Goldenrod,Great Elm Capital Corp.,19416,42.65
+7/13/21,Goldenrod,"Champions Oncology, Inc.",19112,51.54
+7/13/21,Goldenrod,"Shoe Carnival, Inc.",16126,64.7
+7/13/21,Goldenrod,Rogers Corporation,19550,96.36
+7/13/21,Goldenrod,Atlantic Power Corporation,17151,37.43
+7/13/21,Goldenrod,"BJ's Restaurants, Inc.",18133,54.35
+7/13/21,Goldenrod,Gladstone Investment Corporation,19000,23.81
+7/13/21,Goldenrod,"Jason Industries, Inc.",16614,83.16
+7/13/21,Goldenrod,"Rand Logistics, Inc.",13186,55.03
+7/13/21,Goldenrod,Global X NASDAQ China Technology ETF,17408,26
+7/13/21,Goldenrod,"National American University Holdings, Inc.",16876,44.42
+7/13/21,Goldenrod,BlackRock Municipal Income Investment Trust,15028,58.1
+7/13/21,Goldenrod,"Yext, Inc.",12702,10.14
+7/13/21,Goldenrod,Nuveen Floating Rate Income Fund,10736,69.92
+7/13/21,Green,Horizon Technology Finance Corporation,17399,7.15
+7/13/21,Green,Macquarie Global Infrastructure Total Return Fund Inc.,10750,64.18
+7/13/21,Green,"Savara, Inc.",19196,84.23
+7/13/21,Green,Putnam Master Intermediate Income Trust,16648,34.83
+7/13/21,Green,"Advanced Micro Devices, Inc.",18929,28.05
+7/13/21,Green,"First Citizens BancShares, Inc.",10182,35.62
+7/13/21,Green,Bristow Group Inc,14691,97.02
+7/13/21,Green,HP Inc.,12377,32.29
+7/13/21,Green,The KEYW Holding Corporation,15270,6.24
+7/13/21,Green,"Oxford Industries, Inc.",12168,16.48
+7/13/21,Green,"TSR, Inc.",10846,35.65
+7/13/21,Green,"New York Mortgage Trust, Inc.",17745,40.26
+7/13/21,Green,"America First Multifamily Investors, L.P.",17671,7.31
+7/13/21,Green,Bank of Marin Bancorp,17305,14.81
+7/13/21,Green,"MMA Capital Management, LLC",16547,66.84
+7/13/21,Green,Finisar Corporation,10227,57.95
+7/13/21,Green,Capitala Finance Corp.,13985,91.29
+7/13/21,Green,Comp En De Mn Cemig ADS,13998,81.82
+7/13/21,Green,Ligand Pharmaceuticals Incorporated,12342,97.95
+7/13/21,Green,Virtusa Corporation,11499,68.27
+7/13/21,Green,Female Health Company (The),16472,19.58
+7/13/21,Green,"Ply Gem Holdings, Inc.",15956,24.71
+7/13/21,Green,"SeaChange International, Inc.",10508,78.59
+7/13/21,Indigo,"Allied Motion Technologies, Inc.",10219,62.03
+7/13/21,Indigo,"Foot Locker, Inc.",16021,19.67
+7/13/21,Indigo,Attunity Ltd.,10996,58.59
+7/13/21,Indigo,Lakeland Financial Corporation,13398,34.81
+7/13/21,Indigo,"Insperity, Inc.",11772,92.42
+7/13/21,Indigo,MDC Partners Inc.,11813,1.47
+7/13/21,Indigo,Axalta Coating Systems Ltd.,16630,73.53
+7/13/21,Indigo,PetroChina Company Limited,13911,19.42
+7/13/21,Indigo,Marriot Vacations Worldwide Corporation,16265,28.45
+7/13/21,Indigo,iRobot Corporation,15637,65.01
+7/13/21,Indigo,"Hercules Capital, Inc.",10744,18.14
+7/13/21,Indigo,"Zogenix, Inc.",11520,33.3
+7/13/21,Indigo,Taiwan Semiconductor Manufacturing Company Ltd.,12754,39.32
+7/13/21,Khaki,"FCB Financial Holdings, Inc.",11006,65.6
+7/13/21,Khaki,Pembina Pipeline Corp.,12454,95.55
+7/13/21,Khaki,"Netlist, Inc.",11866,71.65
+7/13/21,Khaki,TriMas Corporation,16498,81.6
+7/13/21,Khaki,Stellar Acquisition III Inc.,19079,65.26
+7/13/21,Khaki,"Super Micro Computer, Inc.",13273,24.2
+7/13/21,Khaki,"One Liberty Properties, Inc.",19206,59.54
+7/13/21,Khaki,Chesapeake Energy Corporation,16453,86.21
+7/13/21,Khaki,"PNC Financial Services Group, Inc. (The)",12789,73.07
+7/13/21,Khaki,Medley Capital Corporation,15118,2.36
+7/13/21,Khaki,Education Realty Trust Inc.,16348,9.4
+7/13/21,Khaki,Prudential Public Limited Company,11603,79.01
+7/13/21,Khaki,L.S. Starrett Company (The),16038,56.96
+7/13/21,Khaki,"Digital Realty Trust, Inc.",16006,44.75
+7/13/21,Khaki,Star Bulk Carriers Corp.,16608,25.39
+7/13/21,Khaki,"Agios Pharmaceuticals, Inc.",12528,59.58
+7/13/21,Khaki,Dana Incorporated,10874,40.75
+7/13/21,Maroon,Columbus McKinnon Corporation,11074,40.67
+7/13/21,Maroon,"Goldman Sachs Group, Inc. (The)",18374,76.46
+7/13/21,Maroon,Principal Price Setters Index ETF,10217,10.53
+7/13/21,Maroon,Corporate Office Properties Trust,10299,29.04
+7/13/21,Maroon,Invesco Municipal Trust,10820,37.18
+7/13/21,Maroon,ABM Industries Incorporated,11644,16.48
+7/13/21,Maroon,Scorpio Tankers Inc.,16211,69.22
+7/13/21,Maroon,"AmTrust Financial Services, Inc.",12566,17.46
+7/13/21,Maroon,First Trust Taiwan AlphaDEX Fund,15851,53.53
+7/13/21,Maroon,NASDAQ TEST STOCK,12355,80
+7/13/21,Maroon,"Bojangles', Inc.",16739,17.86
+7/13/21,Maroon,Nabriva Therapeutics AG,12545,96.79
+7/13/21,Maroon,CTI BioPharma Corp.,15994,86.53
+7/13/21,Maroon,BlueStar TA-BIGITech Israel Technology ETF,15009,31.52
+7/13/21,Maroon,"Nelnet, Inc.",10881,79.89
+7/13/21,Maroon,"Texas Capital Bancshares, Inc.",12032,67.66
+7/13/21,Maroon,"NextEra Energy Partners, LP",18542,1.29
+7/13/21,Maroon,"RadNet, Inc.",14788,20.73
+7/13/21,Maroon,Concord Medical Services Holdings Limited,14249,21.63
+7/13/21,Maroon,Ares Commercial Real Estate Corporation,19669,44.22
+7/13/21,Maroon,"Zayo Group Holdings, Inc.",12782,9.35
+7/13/21,Maroon,Pennsylvania Real Estate Investment Trust,11985,79.35
+7/13/21,Mauv,Function(x) Inc.,17364,28.07
+7/13/21,Mauv,"Tenax Therapeutics, Inc.",19116,27.06
+7/13/21,Mauv,Brookfield Property Partners L.P.,19801,16.82
+7/13/21,Mauv,CABCO Series 2004-101 Trust,14003,68.13
+7/13/21,Mauv,"Goldman Sachs Group, Inc. (The)",14230,88.81
+7/13/21,Mauv,Pimco Corporate & Income Opportunity Fund,19883,12.66
+7/13/21,Mauv,Penn Virginia Corporation,12461,35.87
+7/13/21,Mauv,Oxbridge Re Holdings Limited,13659,38.98
+7/13/21,Mauv,Nuveen NASDAQ 100 Dynamic Overwrite Fund,11584,66.7
+7/13/21,Mauv,"Citizens, Inc.",16980,31.98
+7/13/21,Mauv,Westlake Chemical Partners LP,12438,74.38
+7/13/21,Mauv,Discover Financial Services,15476,57.92
+7/13/21,Mauv,"Appliance Recycling Centers of America, Inc.",18375,75.81
+7/13/21,Mauv,"Kona Grill, Inc.",19510,52.59
+7/13/21,Mauv,"CSW Industrials, Inc.",12730,74.45
+7/13/21,Orange,"XO Group, Inc.",17150,9.05
+7/13/21,Orange,Adamis Pharmaceuticals Corporation,12045,1.77
+7/13/21,Orange,STORE Capital Corporation,10053,89.81
+7/13/21,Orange,"Gilead Sciences, Inc.",16948,74.53
+7/13/21,Orange,TCF Financial Corporation,11561,36.8
+7/13/21,Orange,Phillips 66,10954,75.29
+7/13/21,Orange,Fastenal Company,13068,54.87
+7/13/21,Orange,General Electric Capital Corporation,19684,99.12
+7/13/21,Orange,Canterbury Park Holding Corporation,10159,64.04
+7/13/21,Orange,Methanex Corporation,18578,57.42
+7/13/21,Orange,"Monster Digital, Inc.",16044,39.44
+7/13/21,Orange,"Amphastar Pharmaceuticals, Inc.",12985,46.88
+7/13/21,Orange,Advanced Accelerator Applications S.A.,13110,56.83
+7/13/21,Orange,"ImmunoGen, Inc.",12711,21.45
+7/13/21,Orange,"Advaxis, Inc.",13652,46.61
+7/13/21,Pink,"Plantronics, Inc.",18633,86.52
+7/13/21,Pink,"Sabra Healthcare REIT, Inc.",13611,95.96
+7/13/21,Pink,Sanchez Energy Corporation,10441,14.89
+7/13/21,Pink,"Hartford Financial Services Group, Inc. (The)",18641,22.82
+7/13/21,Pink,Horizon Technology Finance Corporation,15951,80.45
+7/13/21,Pink,Silver Run Acquisition Corporation II,16721,28.63
+7/13/21,Pink,Belmond Ltd.,14919,21.93
+7/13/21,Pink,"NexPoint Residential Trust, Inc.",18934,38.76
+7/13/21,Pink,"Lilis Energy, Inc.",11953,38.36
+7/13/21,Pink,Liberty Interactive Corporation,16490,82.1
+7/13/21,Pink,"Ignyta, Inc.",11340,38.51
+7/13/21,Pink,Invesco Credit Opportunities Fund,11988,90.85
+7/13/21,Pink,American Vanguard Corporation,13041,62.39
+7/13/21,Puce,"NRG Energy, Inc.",14546,71
+7/13/21,Puce,"MaxLinear, Inc",17904,86.93
+7/13/21,Puce,Cellect Biotechnology Ltd.,19598,22.18
+7/13/21,Puce,Platform Specialty Products Corporation,15066,17.53
+7/13/21,Puce,Fiat Chrysler Automobiles N.V.,13178,70.79
+7/13/21,Puce,Boulevard Acquisition Corp. II,14294,16.3
+7/13/21,Puce,"ServisFirst Bancshares, Inc.",11989,29.4
+7/13/21,Puce,"China HGS Real Estate, Inc.",13072,99.85
+7/13/21,Puce,"First Connecticut Bancorp, Inc.",15669,69.6
+7/13/21,Puce,Potash Corporation of Saskatchewan Inc.,17047,22.11
+7/13/21,Puce,"Vivint Solar, Inc.",13043,41.72
+7/13/21,Puce,Seacoast Banking Corporation of Florida,14552,29.07
+7/13/21,Puce,Pacific Premier Bancorp Inc,18756,96.47
+7/13/21,Puce,Spherix Incorporated,17689,93.82
+7/13/21,Puce,"Tarena International, Inc.",19887,84.74
+7/13/21,Puce,Phoenix New Media Limited,18303,97.64
+7/13/21,Puce,Gabelli Global Small and Mid Cap Value Trust (The),19421,1.01
+7/13/21,Puce,ObsEva SA,11187,39.61
+7/13/21,Puce,Caesars Acquisition Company,17135,1.99
+7/13/21,Puce,"Hartford Financial Services Group, Inc. (The)",16464,76.86
+7/13/21,Purple,Nuveen California Municipal Value Fund 2,11407,9.86
+7/13/21,Purple,"Bankrate, Inc.",19497,63.07
+7/13/21,Purple,iStar Financial Inc.,16741,1.33
+7/13/21,Purple,"FireEye, Inc.",13111,60.89
+7/13/21,Purple,"Sprott Focus Trust, Inc.",10516,25.36
+7/13/21,Purple,Weyerhaeuser Company,13711,43.27
+7/13/21,Purple,"Energy Focus, Inc.",15027,4.94
+7/13/21,Purple,Enbridge Inc,13114,30.32
+7/13/21,Purple,"Torchlight Energy Resources, Inc.",13204,88.09
+7/13/21,Purple,Vanguard Intermediate-Term Corporate Bond ETF,14223,22.31
+7/13/21,Purple,Select Asset Inc.,12600,50.45
+7/13/21,Purple,"Shutterfly, Inc.",11009,93.63
+7/13/21,Purple,"Hasbro, Inc.",12765,51.25
+7/13/21,Red,"Salem Media Group, Inc.",14765,64.28
+7/13/21,Red,"Ply Gem Holdings, Inc.",17549,10.16
+7/13/21,Red,"Arch Coal, Inc.",10135,56.33
+7/13/21,Red,"CryoPort, Inc.",14091,11.3
+7/13/21,Red,Madison Strategic Sector Premium Fund,11814,81.16
+7/13/21,Red,"Standard Motor Products, Inc.",18913,47.65
+7/13/21,Red,"SGOCO Group, Ltd",18427,48.08
+7/13/21,Red,"Jernigan Capital, Inc.",13165,22.07
+7/13/21,Red,FIRST REPUBLIC BANK,19335,97.79
+7/13/21,Red,Invesco Quality Municipal Income Trust,14324,16.27
+7/13/21,Red,Gramercy Property Trust,19039,32.14
+7/13/21,Red,"Axcelis Technologies, Inc.",11360,57.53
+7/13/21,Red,"Continental Resources, Inc.",15181,88.25
+7/13/21,Red,iShares PHLX SOX Semiconductor Sector Index Fund,13023,51.09
+7/13/21,Red,Weatherford International plc,14396,8.18
+7/13/21,Red,"Royce Value Trust, Inc.",10998,94.33
+7/13/21,Teal,Axis Capital Holdings Limited,18926,67.97
+7/13/21,Teal,Hugoton Royalty Trust,15075,77.64
+7/13/21,Teal,Pan American Silver Corp.,17691,35.33
+7/13/21,Teal,"Duff & Phelps Utilities Income, Inc.",10607,27.16
+7/13/21,Teal,Qwest Corporation,14321,74.76
+7/13/21,Teal,"Orion Energy Systems, Inc.",14777,92.17
+7/13/21,Teal,"Parsley Energy, Inc.",16022,51.94
+7/13/21,Teal,"Fresh Del Monte Produce, Inc.",16923,23.56
+7/13/21,Teal,DaVita Inc.,13467,80.74
+7/13/21,Teal,STAAR Surgical Company,17450,1.51
+7/13/21,Teal,The Spectranetics Corporation,14087,98.36
+7/13/21,Teal,"Brookline Bancorp, Inc.",19233,85.35
+7/13/21,Teal,"Rigel Pharmaceuticals, Inc.",15840,77.65
+7/13/21,Turquoise,CymaBay Therapeutics Inc.,10445,29.81
+7/13/21,Turquoise,iStar Financial Inc.,14512,48.46
+7/13/21,Turquoise,"Westbury Bancorp, Inc.",18974,85.95
+7/13/21,Turquoise,"Boston Properties, Inc.",19531,31.5
+7/13/21,Turquoise,Hexcel Corporation,19320,89.61
+7/13/21,Turquoise,"On Deck Capital, Inc.",19296,71.43
+7/13/21,Turquoise,"GTT Communications, Inc.",13916,29.17
+7/13/21,Turquoise,Rexnord Corporation,13600,11.26
+7/13/21,Turquoise,VALE S.A.,15346,63.5
+7/13/21,Turquoise,Aegion Corp,12738,24.71
+7/13/21,Turquoise,Cohen & Steers Reit and Preferred Income Fund Inc,12249,45.63
+7/13/21,Turquoise,Waters Corporation,11315,27.25
+7/13/21,Turquoise,"Commerce Bancshares, Inc.",13728,14.67
+7/13/21,Turquoise,Inpixon ,16929,81.74
+7/13/21,Turquoise,"On Assignment, Inc.",14597,78.16
+7/13/21,Turquoise,Ally Financial Inc.,10178,48.34
+7/13/21,Turquoise,Nuveen Build America Bond Fund,16337,17.74
+7/13/21,Turquoise,"Care.com, Inc.",12857,42.2
+7/13/21,Turquoise,First Financial Corporation Indiana,19957,68.33
+7/13/21,Turquoise,Janus Henderson Small/Mid Cap Growth Alpha ETF,12719,35.2
+7/13/21,Turquoise,ImmuCell Corporation,10943,18.17
+7/13/21,Turquoise,Agree Realty Corporation,11890,14.64
+7/13/21,Violet,"MS Income Securities, Inc.",15670,45.48
+7/13/21,Violet,"Stanley Black & Decker, Inc.",18533,59.98
+7/13/21,Violet,Regency Centers Corporation,16344,47.35
+7/13/21,Violet,"Navigant Consulting, Inc.",14518,50.43
+7/13/21,Violet,DNB Financial Corp,14040,63.54
+7/13/21,Violet,iStar Financial Inc.,17168,15.95
+7/13/21,Violet,"Associated Capital Group, Inc.",16758,24.9
+7/13/21,Violet,Broadcom Limited,14464,16.17
+7/13/21,Violet,"Tyson Foods, Inc.",11881,64.39
+7/13/21,Violet,Capitala Finance Corp.,17899,97.39
+7/13/21,Violet,Park Hotels & Resorts Inc.,12666,99.08
+7/13/21,Violet,Endurance Specialty Holdings Ltd,15111,87.09
+7/13/21,Violet,"Crown Crafts, Inc.",13328,28.05
+7/13/21,Violet,"LMI Aerospace, Inc.",10391,87.37
+7/13/21,Violet,"Green Bancorp, Inc.",10642,16.42
+7/13/21,Yellow,"Nathan's Famous, Inc.",18034,88.1
+7/13/21,Yellow,"Henry Schein, Inc.",16718,95.83
+7/13/21,Yellow,Cubic Corporation,17714,43.19
+7/13/21,Yellow,Invacare Corporation,10903,36.69
+7/13/21,Yellow,"Proofpoint, Inc.",15679,75.11
+7/13/21,Yellow,Trustmark Corporation,19428,17.23
+7/13/21,Yellow,"AmTrust Financial Services, Inc.",14468,36.29
+7/13/21,Yellow,The Middleby Corporation,13617,26.59
+7/13/21,Yellow,American Homes 4 Rent,10681,33.34
+7/13/21,Yellow,Anadarko Petroleum Corporation,13178,7.39
+7/13/21,Yellow,"People's United Financial, Inc.",14058,19.23
+7/13/21,Yellow,Boeing Company (The),17081,74.66
+7/13/21,Yellow,"EMCOR Group, Inc.",12707,37.33
+7/13/21,Yellow,"Ra Pharmaceuticals, Inc.",18563,1.14
+7/13/21,Yellow,Movado Group Inc.,17865,37.51
+7/13/21,Yellow,Evercore Partners Inc,15423,69.37
+7/13/21,Yellow,"KAR Auction Services, Inc",14775,42.59
+7/13/21,Yellow,Hi-Crush Partners LP,15865,21.78
+7/13/21,Yellow,Principal U.S. Small Cap Index ETF,18398,68.97
+7/13/21,Yellow,Highland/iBoxx Senior Loan ETF,18242,66.37
+7/13/21,Yellow,"American Public Education, Inc.",12192,9.05
+7/14/21,Mauv,XTL Biopharmaceuticals Ltd.,12550,16.8
+7/12/21,blue,Morgan Stanley,20000,51
+7/12/21,Aquamarine,Morgan Stanley,17871,3.71
