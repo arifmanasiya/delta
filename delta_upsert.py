@@ -12,7 +12,7 @@ from pyspark.sql.functions import col, lit, date_format, regexp_replace, concat,
 from pyspark.sql.functions import sum
 
 WAREHOUSE_DIR = "spark-warehouse"
-STAGED_TABLE = "stagedTable"
+STAGED_TABLE = "staged_table"
 OUTPUT_TABLE = "aggTable"
 INPUT_FILE = f"{WAREHOUSE_DIR}/MOCK_DATA.csv"
 DELTA_FILE = f"{WAREHOUSE_DIR}/{STAGED_TABLE}"
@@ -79,32 +79,40 @@ updatesDF = spark.read.format("csv") \
     .option("header", "true") \
     .option("inferSchema", "true") \
     .load(INPUT_FILE) \
+    .groupBy("trade_date", "book", "security") \
+    .agg(sum("quantity").alias("total_quantity"),
+         sum(col("price") * col("quantity")).alias("notional")) \
+    .withColumn("price", col("notional") / col("total_quantity")) \
+    .drop("quantity", "notional") \
+    .withColumnRenamed("total_quantity", "quantity") \
     .withColumn("last_updated", lit(CURRENT_TIME)) \
-    .withColumn("trade_date", transform_date(col("trade_date"))).alias("trade_date")\
-    .withColumn("key", sha2(concat(col("trade_date"), col("book"), col("security")), 256))\
-    .withColumn("change_key", sha2(concat(col("quantity"), col("price")), 256))\
-    .drop_duplicates()
+    .withColumn("trade_date", transform_date(col("trade_date"))).alias("trade_date") \
+    .withColumn("key", sha2(concat(col("trade_date"), col("book"), col("security")), 256)) \
+    .withColumn("change_key", sha2(concat(col("quantity"), col("price")), 256))
+
 
 exists = os.path.exists(DELTA_FILE)
+delta_table = None
 if not exists:
     print("delta table does not exist - creating a new one.")
     updatesDF.write.format("delta").mode("overwrite").saveAsTable(STAGED_TABLE)
-    exit(0)
+else:
+    delta_table = DeltaTable.forPath(spark, path=DELTA_FILE)
+    delete_missing_data(updatesDF, delta_table)
+    # print("-"*80)
+    # delta_table.toDF().filter("security='Morgan Stanley'").show(10)
+    upsert_data(updatesDF, delta_table)
 
-delta_table = DeltaTable.forPath(spark, path=DELTA_FILE)
-delete_missing_data(updatesDF, delta_table)
-# print("-"*80)
-# delta_table.toDF().filter("security='Morgan Stanley'").show(10)
-upsert_data(updatesDF, delta_table)
-# print("+"*80)
-# delta_table.toDF().filter("security='Morgan Stanley'").show(10)
-
+    # print("+"*80)
+    # delta_table.toDF().filter("security='Morgan Stanley'").show(10)
 
 """
  - Final agg table saved as parquet (not delta). 
  - Read data from staged table (delta) and aggregate all security data by date
 """
-spark.table(STAGED_TABLE) \
+if not delta_table:
+    delta_table = DeltaTable.forPath(spark, path=DELTA_FILE)
+delta_table.toDF()\
     .groupBy("trade_date", "security") \
     .agg(sum("quantity").alias("total_quantity"),
          sum(col("price") * col("quantity")).alias("notional")) \
@@ -115,4 +123,4 @@ spark.table(STAGED_TABLE) \
     .save(OUTPUT_FILE)
 
 df = spark.read.format("parquet").load(OUTPUT_FILE)
-df.filter("security='Morgan Stanley'").show()
+# df.filter("security='Morgan Stanley'").show()
