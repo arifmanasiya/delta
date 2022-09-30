@@ -1,7 +1,3 @@
-# delta
-DELETE/ADD/UPDATE in delta table example
-
-
 ### Dependencies
 - Please install pyspark and run this locally by creating a new project and copying the delta_upsert.py
 - Your project src folder should have spark-warehouse folder (create it)
@@ -20,6 +16,7 @@ python3 delta_upsert.py
 ### Module 1
 #### Preparing and Updating Delta Table:
 On the first iteration, we create a delta table for input data.
+ - I have aggregated same security for given book for a given day in one row to deal with duplicate data.
 We add 3 additional column <last_updated, key, change_key> for debugging and terse conditions during merge.
 Next, when there are updates for the existing data, we get a new file.
 The data in these files needs to be upserted in to the delta table.
@@ -45,5 +42,10 @@ across all books. That is, the aggregation will be at <date, security> level. Th
  * Some additional info is added in the code related to the shortcoming of the current delta table implementation
  * Delta table versioning can be controlled by periodic vacuum on delta table. Alternatively, we can keep only the
    latest version if history is not desired for the application use cases.
+
+
+
+
+
 
 
